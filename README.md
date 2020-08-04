@@ -16,7 +16,7 @@ bash install_termux.sh
 
 cd ..
 
-python HaXp.py
+python2 HaXp.py
 
 }
 <h2>linux</h2>
