@@ -19,7 +19,7 @@ cd ..
 python2 HaXp.py
 
 }
-<h2>linux</h2>
+<h1>linux</h1>
 for linux {
 
 git clone https://github.com/Cyber-ASTR0/HackerSploit
